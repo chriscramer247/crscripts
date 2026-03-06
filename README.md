@@ -2,8 +2,6 @@
 
 **STEP 1:** Run aws_sizing_tool.py
 
-AWS Environment Sizing
-=================================================
 Prerequisites (these already exist in AWS CloudShell):
 •	Python 3.6 or higher
 •	AWS CLI configured with appropriate permissions
